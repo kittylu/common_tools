@@ -3,12 +3,6 @@
     "description": "公共类",
     "type": "project",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "zhangjr",
-            "email": "2908227754@qq.com"
-        }
-    ],
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0"
